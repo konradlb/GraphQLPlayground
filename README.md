@@ -11,3 +11,9 @@ Before start server rename the `.env.template` file into `.env` and pase your co
 `cd server`
 
 `nodemon app`
+
+## front start
+
+`yarn install`
+
+`yarn start`
